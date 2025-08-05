@@ -1,0 +1,23 @@
+﻿Prepared Remarks:
+NVIDIA today reported revenue for the first quarter ended April 27, 2025, of $44.1 billion, up 12 % from the previous quarter and up 69 % from a year ago. Data Center revenue was $39.1 billion, up 10 % from Q4 and up 73 % from a year ago...
+
+“Our breakthrough Blackwell NVL72 AI supercomputer — a ‘thinking machine’ designed for reasoning — is now in full-scale production across system makers and cloud service providers. Global demand for NVIDIA’s AI infrastructure is incredibly strong. AI inference token generation has surged tenfold in just one year... Countries around the world are recognizing AI as essential infrastructure — just like electricity and the internet — and NVIDIA stands at the center of this profound transformation.”
+
+Highlights:
+- Introduced NVIDIA Blackwell Ultra and NVIDIA Dynamo for accelerating and scaling AI reasoning models.
+- Announced partnerships including HUMAIN (Saudi Arabia), Stargate UAE (Abu Dhabi), and initiatives with Google, OpenAI, Oracle, SoftBank and Cisco.
+- Announced AI factories, NVIDIA Spectrum-X, Quantum-X silicon photonics networking, RTX PRO Servers, DGX SuperPOD, DGX Cloud Lepton, and open Llama Nemotron models.
+- Commercial launch of GeForce RTX 5070/5060 GPUs, DLSS 4 in >125 titles, Nintendo Switch 2 powered by NVIDIA, RTX Remix modding platform.
+
+Question-and-Answer Session:
+Q: Can you talk about demand visibility and China export delays?
+A: We recognized $4.6 billion in H20 product sales in Q1 but were unable to ship $2.5 billion due to new export licensing. We expect reduced revenue into Q2 due to these restrictions and wider macro uncertainty. We continue to see strong momentum in inference workloads globally and are building supply chains to scale.
+
+Q: What are your plans for reasoning AI infrastructure growth?
+A: We are scaling AI factories in partnership globally, investing in onshore production and expanding capacity. We are seeing step-function demand; the Blackwell generation is scaling rapidly to meet the need.
+
+Q: Can you clarify margin trajectory post-footprint expansion?
+A: Despite $4.5 billion in charges, non-GAAP gross margin was ~71 %. As scale improves and efficiencies ramp, we expect margins to stabilize mid-70 % later this year.
+
+(End of Q&A)
+

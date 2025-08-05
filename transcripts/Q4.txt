@@ -1,0 +1,36 @@
+﻿Prepared Remarks:
+NVIDIA reported revenue for the fourth quarter of fiscal 2025 of $39.3 billion, up 12% sequentially and up 78% year on year, above the outlook of $37.5 billion. Fiscal 2025 revenue was $130.5 billion, up 114% from the prior year.
+
+Data Center revenue for fiscal 2025 was $115.2 billion, more than doubling from the prior year. In Q4, Data Center revenue reached $35.6 billion, a record, up 16% sequentially and 93% year on year, as the Blackwell ramp commenced and Hopper 200 continued sequential growth. Blackwell sales exceeded expectations, delivering $11 billion in revenue — the fastest product ramp in company history.
+
+Blackwell was designed for reasoning AI inference, offering up to 25x higher token throughput and 20x lower cost compared to Hopper 100. The NVLink Domain delivers 14x the throughput of PCIe Gen 5, enabling unprecedented scale and efficiency. Customers are deploying massive clusters — some with 100,000 GPUs — for training, post-training customization, and inference workloads.
+
+Inference demand is accelerating, driven by new reasoning models such as OpenAI’s o3, DeepSeek-R1, and Grok 3. Companies across industries are adopting NVIDIA’s full-stack inference platform to increase performance and reduce costs. For example:
+- Notion tripled inference throughput and cut costs by 66%.
+- Perplexity reduced inference costs by 3x.
+- Microsoft Bing achieved a 5x speedup for visual search at significant TCO savings.
+
+Large CSPs represented about half of Data Center revenue in Q4, nearly doubling year on year, with Azure, GCP, AWS, and OCI standing up GB200 systems globally. Regional cloud providers are also rapidly expanding NVIDIA GPU deployments.
+
+Consumer Internet revenue grew 3x year on year, driven by generative AI and deep learning workloads such as recommender systems, vision, language understanding, and synthetic data generation. Enterprise demand doubled for model fine-tuning, retrieval-augmented generation (RAG), and agentic AI workflows.
+
+NVIDIA introduced the Llama Nemotron model family NIMs, enabling AI agents in industries from customer service to supply chain. Healthcare leaders such as IQVIA, Illumina, and Mayo Clinic are using NVIDIA AI for drug discovery, genomic research, and advanced healthcare services.
+
+Robotics and physical AI are also growing markets, with autonomous vehicle (AV) companies developing on NVIDIA platforms both in the data center and in-car. Automotive vertical revenue is expected to reach $5 billion in fiscal 2026. At CES, Hyundai Motor Group adopted NVIDIA technology for AV, robotics, and smart factory projects.
+
+Globally, Data Center growth was strongest in the U.S., with notable AI investment commitments in Europe. China shipments remain constrained due to export controls, and are expected to stay at current levels absent regulatory changes.
+
+Question-and-Answer Session:
+Q: Can you comment on demand trends and China’s outlook?
+A: Demand remains exceptionally strong globally, with broad adoption of Blackwell systems. In China, shipments are limited by export controls and expected to remain at current levels.
+
+Q: How do you see inference evolving with Blackwell?
+A: Inference is a major driver of demand for Blackwell, with many early GB200 deployments focused entirely on inference. Blackwell’s architecture enables cost-effective, high-throughput reasoning AI at unprecedented scale.
+
+Q: What’s the expected impact on gross margins?
+A: Non-GAAP gross margin was ~71% in Q4. We expect margins to improve into the mid-70% range as scale and efficiency gains take effect later in the year.
+
+Q: What verticals are driving enterprise growth?
+A: Key growth drivers include generative AI for customer service, recommendation engines, drug discovery, and advanced robotics/AV development. Partnerships with major cloud providers and enterprises are expanding AI infrastructure globally.
+
+(End of Q&A)

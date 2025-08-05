@@ -1,0 +1,33 @@
+﻿Prepared Remarks:
+NVIDIA reported revenue for the third quarter of fiscal 2025 of $35.1 billion, up 17% sequentially and 94% year over year, well above the outlook of $32.5 billion.
+
+Data Center revenue was $30.8 billion, up 17% sequentially and 112% year over year. Demand for NVIDIA Hopper remained exceptional, with H200 sales increasing to double-digit billions — the fastest product ramp in company history. The H200 delivers up to 2x faster inference performance and up to 50% improved TCO. Cloud service providers represented approximately half of data center sales, with revenue up more than 2x year over year.
+
+H200-powered cloud instances are available from AWS, CoreWeave, and Microsoft Azure, with Google Cloud and OCI coming soon. Regional cloud revenue grew strongly in North America, India, and Asia Pacific, fueled by sovereign cloud build-outs. Consumer Internet revenue more than doubled year over year, driven by AI model training, multimodal AI, recommender engines, and generative AI workloads.
+
+NVIDIA’s installed base and software ecosystem encourage developers to optimize for NVIDIA, boosting performance and reducing costs. Software optimizations improved Hopper inference throughput 5x in one year. The upcoming NVIDIA NIM release will add a further 2.4x boost.
+
+Blackwell is in full production, with 13,000 GPU samples shipped in Q3, including DGX engineering samples to OpenAI. Oracle announced Zettascale AI clusters with over 131,000 Blackwell GPUs. Microsoft will offer GB200-based instances in private preview. Blackwell architecture enables up to 30x faster inference and better scaling for reasoning AI.
+
+Enterprise AI adoption is accelerating, with NVIDIA AI Enterprise enabling copilots and AI agents. Partners like Cadence, Cloudera, NetApp, Salesforce, SAP, and ServiceNow are building on NVIDIA platforms. Consulting firms such as Accenture and Deloitte are deploying NVIDIA AI to global enterprises, with Accenture training 30,000 professionals on NVIDIA AI.
+
+Industrial AI and robotics adoption is growing. Foxconn is using NVIDIA Omniverse to drive efficiency in Blackwell factories. In China, data center revenue grew sequentially with export-compliant Hopper products, though it remains below pre-export-control levels. In India, CSPs are building AI factories with tens of thousands of GPUs. In Japan, SoftBank is building the country’s most powerful AI supercomputer with DGX Blackwell.
+
+Networking revenue rose 20% year over year, with growth in InfiniBand, Ethernet switches, SmartNICs, and BlueField DPUs. Spectrum-X Ethernet for AI revenue tripled year over year.
+
+Gaming revenue was $3.3 billion, up 14% sequentially and 15% year over year. RTX demand remained strong, driven by back-to-school sales and AI PC adoption. ProViz revenue was $486 million, up 7% sequentially and 17% year over year. Automotive revenue was a record $449 million, up 30% sequentially and 72% year over year.
+
+GAAP gross margin was 74.6%, and non-GAAP was 75%. In Q3, NVIDIA returned $11.2 billion to shareholders. Q4 revenue is expected to be $37.5 billion, plus or minus 2%, incorporating demand for Hopper and the initial Blackwell ramp. Margins are expected to moderate to the low 70s during the ramp.
+
+Question-and-Answer Session:
+Q: Can you comment on scaling for large language models?
+A: Scaling continues to advance, particularly with Blackwell, which enables greater inference throughput and supports more complex reasoning AI models. The market for large models remains vibrant, with ongoing infrastructure build-outs.
+
+Q: What’s driving enterprise adoption?
+A: Enterprises are building copilots, AI agents, and industry-specific solutions using NVIDIA AI Enterprise. Consulting partners are expanding training and deployments rapidly.
+
+Q: How is China’s market outlook?
+A: China shipments remain constrained due to export controls, though demand for compliant products is steady. The competitive environment remains intense.
+
+(End of Q&A)
+

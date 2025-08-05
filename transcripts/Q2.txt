@@ -1,0 +1,32 @@
+﻿Prepared Remarks:
+NVIDIA reported revenue for the second quarter of fiscal 2025 of $28.0 billion, up 18% sequentially and 101% year over year, driven by record Data Center performance and broad-based demand for accelerated computing.
+
+Data Center revenue was $25.0 billion, up 21% sequentially and 141% year over year, fueled by hyperscale and cloud providers, large consumer internet companies, and enterprise customers. Demand for the NVIDIA Hopper architecture continued to grow rapidly, with new deployments for training, inference, and generative AI workloads. Hopper systems, coupled with NVIDIA networking technologies, delivered industry-leading performance for large language models, recommender systems, and AI agents.
+
+Hyperscale customers are expanding NVIDIA GPU deployments for both public cloud and private AI infrastructure. Regional and sovereign AI clouds in Europe, Asia, and the Middle East are ramping their first large-scale NVIDIA AI deployments. Consumer Internet companies are scaling Hopper-based clusters for search, advertising, and content generation.
+
+NVIDIA AI Enterprise adoption accelerated across industries, with new releases of NeMo frameworks, NIM microservices, and Omniverse platform tools enabling faster AI agent development. Early adopters in financial services, healthcare, and manufacturing reported efficiency gains and cost reductions from NVIDIA-powered AI deployments.
+
+Networking revenue exceeded $3.5 billion, up significantly year over year, driven by InfiniBand and Spectrum-X Ethernet for AI deployments. The AI-specific Spectrum-X platform continued to gain traction with hyperscale and consumer internet customers seeking improved throughput and reduced latency at scale.
+
+Gaming revenue was $2.5 billion, up 5% sequentially and 11% year over year, supported by demand for GeForce RTX 40 Series GPUs and growth in AI-enhanced gaming. ProViz revenue was $400 million, up 6% sequentially and 9% year over year, benefiting from AI-assisted design and engineering workflows. Automotive revenue reached $350 million, up 20% year over year, as autonomous vehicle programs expanded.
+
+GAAP gross margin for Q2 was 74.0%, with non-GAAP gross margin at 74.5%. Operating expenses increased to support next-generation product development and expanded customer support operations. NVIDIA returned $5.0 billion to shareholders through share repurchases and cash dividends during the quarter.
+
+For Q3 FY2025, revenue is expected to be approximately $32.5 billion, plus or minus 2%, driven by continued demand for Hopper systems and early Blackwell architecture shipments. Margins are expected to remain in the mid-70% range.
+
+Question-and-Answer Session:
+Q: What’s driving the sequential growth in Data Center?
+A: Strong demand for generative AI workloads, rapid adoption of Hopper-based systems, and expansion into sovereign AI clouds are the main drivers. Customers are deploying larger clusters for both training and inference.
+
+Q: How is NVIDIA positioned for AI infrastructure competition?
+A: Our advantage comes from the full-stack approach — GPU, networking, software, and AI frameworks — which provides unmatched performance, scalability, and ecosystem support.
+
+Q: Can you provide an update on Blackwell?
+A: Early shipments are on track, with strong interest across hyperscale, enterprise, and sovereign AI customers. Blackwell’s design enables significantly higher throughput for reasoning AI workloads.
+
+Q: What’s the outlook for Gaming and ProViz?
+A: Gaming remains strong with ongoing demand for RTX-powered AI gaming features. ProViz is benefiting from adoption of AI-assisted design tools and increased use in industrial simulation.
+
+(End of Q&A)
+
