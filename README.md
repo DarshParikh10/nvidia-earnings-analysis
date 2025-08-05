@@ -1,5 +1,7 @@
 **GitHub Repository:** [https://github.com/DarshParikh10/nvidia-earnings-analysis](https://github.com/DarshParikh10/nvidia-earnings-analysis)  
 **GitHub Profile:** [https://github.com/DarshParikh10](https://github.com/DarshParikh10)
+**Live App:** [https://nvidia-earnings-analysis-jpr857mlc7h5dgzzlns64y.streamlit.app/](https://nvidia-earnings-analysis-jpr857mlc7h5dgzzlns64y.streamlit.app/)
+
 
 # NVIDIA Earnings Call Analysis
 
