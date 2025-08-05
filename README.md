@@ -1,39 +1,26 @@
+**GitHub Repository:** [https://github.com/DarshParikh10/nvidia-earnings-analysis](https://github.com/DarshParikh10/nvidia-earnings-analysis)  
+**GitHub Profile:** [https://github.com/DarshParikh10](https://github.com/DarshParikh10)
 
-\# NVIDIA Earnings Call Analysis
+# NVIDIA Earnings Call Analysis
 
-
-
-\## Purpose
-
+## Purpose
 This project reviews NVIDIA’s last four earnings call transcripts and provides:
-
-\- Management sentiment (tone from prepared remarks)
-
-\- Q\&A sentiment (tone from analyst questions and answers)
-
-\- Quarter-to-quarter tone changes
-
-\- Main business focuses each quarter
-
-
+- Management sentiment (tone from prepared remarks)
+- Q&A sentiment (tone from analyst questions and answers)
+- Quarter-to-quarter tone changes
+- Main business focuses each quarter
 
 It runs entirely in the terminal and saves the results in a CSV file for further review.
 
+---
 
-
-\## How to Run
-
-1\. \*\*Set up Python environment\*\*
-
-&nbsp;  ```bash
-
-&nbsp;  python -m venv venv
-
-&nbsp;  venv\\Scripts\\activate   # Windows
-
-&nbsp;  # or
-
-&nbsp;  source venv/bin/activate   # Mac/Linux
+## How to Run (Locally)
+1. **Set up Python environment**
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate   # Windows
+   # or
+   source venv/bin/activate   # Mac/Linux
 
 
 
